@@ -40,3 +40,5 @@ The script checks the target directory for .mscz files missing a corresponding .
 It launches MuseScore 4 in the background to process required conversions.
 
 The script parses the converted files and prints the range analysis and duration tables to the console.
+
+![Example Output Of Program](ExampleMusescoreAnalyzerOutput.png)
