@@ -41,4 +41,5 @@ It launches MuseScore 4 in the background to process required conversions.
 
 The script parses the converted files and prints the range analysis and duration tables to the console.
 
+## Example Output In Terminal
 ![Example Output Of Program](ExampleMusescoreAnalyzerOutput.png)
