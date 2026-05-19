@@ -6,8 +6,8 @@ import music21
 #                                 CONFIGURATION
 # ==================================================================================
 
-SCORES_DIR = r'C:\Users\sonic\OneDrive\Documents\MuseScore3\Scores\2026Spring'
-MUSE_PATH = r'C:\Program Files\MuseScore 4\bin\MuseScore4.exe'
+SCORES_DIR = r'C:\FOLDER_WITH_MUSESCORE_FILES'
+MUSE_PATH = r'C:\Program Files\MuseScore 4\bin\MuseScore4.exe' # Musescore Path
 
 # ==================================================================================
 
